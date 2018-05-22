@@ -34,7 +34,7 @@ WARNING: Every seat has been assigned a GUID.
 
 To find your GUID open this web page in your browser:
 
-*http://github.com/sschmidt/ansible-labs/lab_list.txt*
+*https://github.com/sschmidtrh/ansible-labs/blob/master/lab_list.txt*
 
 To access your control host:
 
