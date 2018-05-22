@@ -28,6 +28,29 @@ WARNING: You will be able to SSH into the control host, from here you need to SS
 Your lab environment has already been deployed for you.
 Please use the GUID that was assigned to you.
 
+=== Access your Lab Environment
+
+WARNING: Every seat has been assigned a GUID. 
+
+To find your GUID open this web page in your browser:
+
+*http://github.com/sschmidt/ansible-labs/lab_list.txt*
+
+To access your control host:
+
+* Look up your *GUID*
+* Open a terminal session
+* Log in to your control host as lab-user using the hostname, the password will be given by the instructor.
+
+TIP: The hostname is: *control-<GUID>.rhpds.opentlc.com* 
+
+WARNING: *Replace <GUID> with the GUID assigned to you!*
+
+Example: If your GUID is "83d4", do this:
+----
+ssh lab-user@control-83d4.rhpds.opentlc.com
+----
+
 == Check the Prerequisites
 
 Most prerequisite tasks have already been done for you:
