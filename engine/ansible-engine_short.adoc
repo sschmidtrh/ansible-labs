@@ -25,7 +25,8 @@ WARNING: You will be able to SSH into the control host, from here you need to SS
 
 === Deploy your Lab Environment
 
-include::access_rhpds.adoc[]
+Your lab environment has already been deployed for you.
+Please use the GUID that was assigned to you.
 
 == Check the Prerequisites
 
