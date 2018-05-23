@@ -6,3 +6,10 @@ GUID list for the Ansible Tower Lab
 +-------------------------------+-------+--------------------------------+
 | sschmidt@redhat.com           | 28dc  | control-28dc.rhpds.opentlc.com |
 +-------------------------------+-------+--------------------------------+
+
+| sschmidt@redhat.com                      | cc89 | CH |
+| cmilsted@redhat.com                      | 8a54 | GB |
+| dinnes@redhat.com                        | 3e9e | GB |
+| fsadeghi@redhat.com                      | d3be | GB |
+| opower@redhat.com                        | bb2b | GB |
+| jskorzyn@redhat.com                      | ba9d | PL |
