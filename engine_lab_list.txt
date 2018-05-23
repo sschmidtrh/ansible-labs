@@ -6,3 +6,10 @@ GUID List for the Ansible Engine Lab
 +-------------------------------+-------+--------------------------------+
 | sschmidt@redhat.com           | 28dc  | control-28dc.rhpds.opentlc.com |
 +-------------------------------+-------+--------------------------------+
+
+| sschmidt@redhat.com                      | 589a | CH |
+| cmilsted@redhat.com                      | 47b7 | GB |
+| dinnes@redhat.com                        | 0ff9 | GB |
+| fsadeghi@redhat.com                      | 173c | GB |
+| opower@redhat.com                        | 5d30 | GB |
+| jskorzyn@redhat.com                      | 672e | PL |
