@@ -48,9 +48,49 @@ TIP: Ansible Tower's web UI will be reachable over HTTP/HTTPS.
 
 TIP: Ansible Tower has already been installed and licensed for you. 
 
-== Lab Access
+== Access your Lab Environment
 
-include::access_rhpds.adoc[]
+WARNING: Every seat has been assigned a GUID. 
+
+To find your GUID open this web page in your browser:
+
+*https://raw.githubusercontent.com/sschmidtrh/ansible-labs/master/tower_lab_list.txt*
+
+To access your control host:
+
+* Look up your *GUID*
+* Open a terminal session
+* Log in to your control host as lab-user using the hostname, the password will be given by the instructor.
+
+TIP: The hostname is: *control-<GUID>.rhpds.opentlc.com* 
+
+WARNING: *Replace <GUID> with the GUID assigned to you!*
+
+Example: If your GUID is "83d4", do this:
+----
+ssh lab-user@control-83d4.rhpds.opentlc.com
+----
+
+----
+$ sudo -i
+----
+
+Because inside the lab environment SSH keys have already been distributed, you can now simply SSH into the Tower VM:
+
+----
+[root@control ~]# ssh tower.example.com
+----
+
+=== Access the Tower Web UI
+
+* Open a browser
+* Access the Tower web UI: \https://tower-<GUID>.rhpds.opentlc.com 
+* Accept the certificate
+* Log in user `admin` with the same password as for root.
+
+Now you will be greeted by your Ansible Tower's dashboard, congratulations! Let have a look at Tower's web UI and learn about the basics concepts.
+
+image::ansible_tower_ui.png[]
 
 == Ansible Tower Concepts
 
