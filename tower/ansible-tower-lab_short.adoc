@@ -1,3 +1,4 @@
+= Lab: Getting Started with Ansible Tower
 :scrollbar:
 :data-uri:
 :toc: left
