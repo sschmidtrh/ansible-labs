@@ -4,9 +4,4 @@ GUID list for the Ansible Tower Lab
 +------------------------------------------+------+----+
 | E-Mail                                   | GUID | LC |
 +------------------------------------------+------+----+
-| sschmidt@redhat.com                      | cc89 | CH |
-| cmilsted@redhat.com                      | 8a54 | GB |
-| dinnes@redhat.com                        | 3e9e | GB |
-| fsadeghi@redhat.com                      | d3be | GB |
-| opower@redhat.com                        | bb2b | GB |
-| jskorzyn@redhat.com                      | ba9d | PL |
+
