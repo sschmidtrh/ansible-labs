@@ -4,4 +4,39 @@ GUID list for the Ansible Tower Lab
 +------------------------------------------+------+----+
 | E-Mail                                   | GUID | LC |
 +------------------------------------------+------+----+
-
+| alexandre.kuenzli@ubs.com                | 6cef | CH |
+| christian.rapp@ubs.com                   | 28fe | CH |
+| christian.utz@ubs.com                    | 5912 | CH |
+| frank.tropschuh@ubs.com                  | dac4 | CH |
+| guillermo.gonzalez-rodriguez@ubs.com     | a28f | CH |
+| harjit.parmar@ubs.com                    | fdbc | CH |
+| marcelo.ancelmo@ubs.com                  | e019 | CH |
+| mark.townley@ubs.com                     | 42f9 | CH |
+| mauro.canal@ubs.com                      | 5380 | CH |
+| nenad.lekic@ubs.com                      | 1614 | CH |
+| serge.boentges@ubs.com                   | e066 | CH |
+| stephan.steinmann@ubs.com                | 8e60 | CH |
+| sschmidt@redhat.com                      | 40df | CH |
+| yves.fischer@ubs.com                     | ffd7 | CH |
+| amit-k.agarwal@ubs.com                   | f40c | GB |
+| barry.dixon@ubs.com                      | f6f0 | GB |
+| cmilsted@redhat.com                      | 3464 | GB |
+| dinnes@redhat.com                        | 9fc8 | GB |
+| fsadeghi@redhat.com                      | 2ec1 | GB |
+| jude.carvalho@ubs.com                    | 8730 | GB |
+| manoj.talwar@ubs.com                     | f9ec | GB |
+| mark.gent@ubs.com                        | e5c0 | GB |
+| minesh.khatri@ubs.com                    | d8fd | GB |
+| montrose.babb@ubs.com                    | 5143 | GB |
+| opower@redhat.com                        | 7e02 | GB |
+| thorsten.millhoff@ubs.com                | 83ff | GB |
+| tuan.lam@ubs.com                         | 09d2 | GB |
+| jskorzyn@redhat.com                      | 4cf9 | PL |
+| konrad.bulanda@ubs.com                   | 4d8b | PL |
+| marcin.reda@ubs.com                      | c22c | PL |
+| onur.yasarlar@ubs.com                    | 20a8 | PL |
+| patryk.malina@ubs.com                    | 3cc2 | PL |
+| piotr.sionkowski@ubs.com                 | 5b00 | PL |
+| vladyslav.trushyn@ubs.com                | f761 | PL |
+| wojciech.baszczewski@ubs.com             | 826d | PL |
+| raj.ponnusamy@ubs.com                    | f2aa | US |
